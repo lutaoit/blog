@@ -1,0 +1,118 @@
+body{
+	background: #c5dfc5;
+}
+li{
+	list-style: none;
+}
+*{
+	padding: 0;
+	margin: 0;
+}
+.pr{
+	position:relative;
+}
+.pa{
+	position: absolute;
+}
+#main{
+	margin: 70px 0;
+}
+
+
+#left-side{
+	background: #fff;
+}
+#bitblog{
+	padding:30px 0;
+	border-bottom: 1px solid #c5dfc5;
+}
+#bitblog h4{
+	margin-left: 15px;
+}
+.aboutme img{
+	padding-top: 15px;
+}
+.aboutme ul{
+	padding-top: 15px;
+}
+.aboutme h4{
+	padding-top: 15px;
+}
+
+
+#right-side{
+	background: #fff;
+	padding: 30px 0 ;
+}
+//lunbotu
+#myCarousel ol li{
+	background:red;
+}
+
+#qfy{
+	padding:22px  0;
+}
+#qfy .wpb{
+	border:1px solid #c5dfc5;
+}
+#qfy p{
+	overflow: hidden;
+	text-overflow:ellipsis;
+	white-space: nowrap;
+	color:#666;
+}
+#qfy h4{
+	color:#68ae9c;
+}
+
+/*
+*#aboutinfo
+*/
+#aboutinfo{
+	padding:0 30px;
+}
+#aboutinfo h1{
+	color:#68ae9c;
+}
+#aboutinfo img{
+	float:right;
+	margin:0 30px;
+}
+#aboutinfo p{
+	font:16px/25px "微软雅黑";
+	text-indent:2em;
+}
+
+/*
+*#blog
+*/
+#blog{
+	padding:0 30px;
+}
+#blog h3{
+	color:#68ae9c;
+}
+#blog .content{
+	text-indent:2em;
+}
+#blog h3 a:hover{
+	color:#666;
+}
+
+
+
+/*
+*#contact
+*/
+#contact{
+	padding:0 20px;
+}
+#contact h4{
+	color:#68ae9c;
+}
+#contact .contactme{
+	margin-bottom:30px;
+}
+#contact .contact p{
+	font:16px/25px '微软雅黑';
+}
